@@ -54,7 +54,7 @@ const Dentists: React.FC = () => {
       qualification: "BDS, MDS - Orthodontics",
       experience: "16 years",
       specialties: "Implantologist, Orthodontist, Dentofacial Orthopedist",
-      imageUrl: "https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg"
+      imageUrl: "https://cdn.pixabay.com/photo/2024/02/21/15/01/doctor-8587851_960_720.png"
     },
     {
       name: "Dr. Taruna Garg",
