@@ -13,14 +13,14 @@ const Footer: React.FC = () => {
             </p>
             <div className="flex items-center space-x-4">
               <a 
-                href="#" 
+                href="https://www.facebook.com/1005487226196025" 
                 className="w-10 h-10 rounded-full bg-primary/20 flex items-center justify-center hover:bg-primary/40 transition-colors"
                 aria-label="Facebook"
               >
                 <Facebook size={20} className="text-primary" />
               </a>
               <a 
-                href="#" 
+                href="https://www.instagram.com/drgargsdentalcare?igsh=YzljYTk1ODg3Zg==" 
                 className="w-10 h-10 rounded-full bg-primary/20 flex items-center justify-center hover:bg-primary/40 transition-colors"
                 aria-label="Instagram"
               >

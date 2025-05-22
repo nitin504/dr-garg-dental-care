@@ -123,7 +123,7 @@ const GoogleReviews: React.FC = () => {
             
             <div className="text-center">
               <a 
-                href="https://www.google.co.in/maps/place/Dr+Garg's+Dental+Care+Implant+and+CBCT+Centre" 
+                href="https://www.google.co.in/maps/place/Dr+Garg's+Dental+Care+Implant+and+CBCT+Centre/@30.8914049,75.8450806,11z/data=!4m8!3m7!1s0x391a824c9e70fd0d:0x1c204a4e584dbecb!8m2!3d30.8913792!4d75.8451123!9m1!1b1!16s%2Fg%2F11cncs_b8f?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D" 
                 target="_blank" 
                 rel="noopener noreferrer"
               >
